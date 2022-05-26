@@ -1,0 +1,2 @@
+# econometrics
+Untuk kelas econometrics
