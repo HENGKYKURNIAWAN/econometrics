@@ -41,7 +41,7 @@ Whether the huge gap of development in the past persists until now and whether s
 
 You can also embed plots, for example:
 
-```{r, echo=FALSE}
+```{r}
 plot(cars)
 ```
 
