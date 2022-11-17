@@ -1,2 +1,7 @@
 logo: econ1.jpg
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-spaceship
